@@ -1,0 +1,8113 @@
+2704 Solution(s)
+Board: 
+  a
+  a
+Board: 
+  a
+  a
+Board: 
+  a
+  a
+Board: 
+  a
+  a
+Board: 
+  a
+  b
+Board: 
+  a
+  b
+Board: 
+  b
+  a
+Board: 
+  b
+  a
+Board: 
+  a
+  c
+Board: 
+  a
+  c
+Board: 
+  c
+  a
+Board: 
+  c
+  a
+Board: 
+  a
+  d
+Board: 
+  a
+  d
+Board: 
+  d
+  a
+Board: 
+  d
+  a
+Board: 
+  a
+  e
+Board: 
+  a
+  e
+Board: 
+  e
+  a
+Board: 
+  e
+  a
+Board: 
+  a
+  f
+Board: 
+  a
+  f
+Board: 
+  f
+  a
+Board: 
+  f
+  a
+Board: 
+  a
+  g
+Board: 
+  a
+  g
+Board: 
+  g
+  a
+Board: 
+  g
+  a
+Board: 
+  a
+  h
+Board: 
+  a
+  h
+Board: 
+  h
+  a
+Board: 
+  h
+  a
+Board: 
+  a
+  i
+Board: 
+  a
+  i
+Board: 
+  i
+  a
+Board: 
+  i
+  a
+Board: 
+  a
+  j
+Board: 
+  a
+  j
+Board: 
+  j
+  a
+Board: 
+  j
+  a
+Board: 
+  a
+  k
+Board: 
+  a
+  k
+Board: 
+  k
+  a
+Board: 
+  k
+  a
+Board: 
+  a
+  l
+Board: 
+  a
+  l
+Board: 
+  l
+  a
+Board: 
+  l
+  a
+Board: 
+  a
+  m
+Board: 
+  a
+  m
+Board: 
+  m
+  a
+Board: 
+  m
+  a
+Board: 
+  a
+  n
+Board: 
+  a
+  n
+Board: 
+  n
+  a
+Board: 
+  n
+  a
+Board: 
+  a
+  o
+Board: 
+  a
+  o
+Board: 
+  o
+  a
+Board: 
+  o
+  a
+Board: 
+  a
+  p
+Board: 
+  a
+  p
+Board: 
+  p
+  a
+Board: 
+  p
+  a
+Board: 
+  a
+  q
+Board: 
+  a
+  q
+Board: 
+  q
+  a
+Board: 
+  q
+  a
+Board: 
+  a
+  r
+Board: 
+  a
+  r
+Board: 
+  r
+  a
+Board: 
+  r
+  a
+Board: 
+  a
+  s
+Board: 
+  a
+  s
+Board: 
+  s
+  a
+Board: 
+  s
+  a
+Board: 
+  a
+  t
+Board: 
+  a
+  t
+Board: 
+  t
+  a
+Board: 
+  t
+  a
+Board: 
+  a
+  u
+Board: 
+  a
+  u
+Board: 
+  u
+  a
+Board: 
+  u
+  a
+Board: 
+  a
+  v
+Board: 
+  a
+  v
+Board: 
+  v
+  a
+Board: 
+  v
+  a
+Board: 
+  a
+  w
+Board: 
+  a
+  w
+Board: 
+  w
+  a
+Board: 
+  w
+  a
+Board: 
+  a
+  x
+Board: 
+  a
+  x
+Board: 
+  x
+  a
+Board: 
+  x
+  a
+Board: 
+  a
+  y
+Board: 
+  a
+  y
+Board: 
+  y
+  a
+Board: 
+  y
+  a
+Board: 
+  a
+  z
+Board: 
+  a
+  z
+Board: 
+  z
+  a
+Board: 
+  z
+  a
+Board: 
+  b
+  a
+Board: 
+  b
+  a
+Board: 
+  a
+  b
+Board: 
+  a
+  b
+Board: 
+  b
+  b
+Board: 
+  b
+  b
+Board: 
+  b
+  b
+Board: 
+  b
+  b
+Board: 
+  b
+  c
+Board: 
+  b
+  c
+Board: 
+  c
+  b
+Board: 
+  c
+  b
+Board: 
+  b
+  d
+Board: 
+  b
+  d
+Board: 
+  d
+  b
+Board: 
+  d
+  b
+Board: 
+  b
+  e
+Board: 
+  b
+  e
+Board: 
+  e
+  b
+Board: 
+  e
+  b
+Board: 
+  b
+  f
+Board: 
+  b
+  f
+Board: 
+  f
+  b
+Board: 
+  f
+  b
+Board: 
+  b
+  g
+Board: 
+  b
+  g
+Board: 
+  g
+  b
+Board: 
+  g
+  b
+Board: 
+  b
+  h
+Board: 
+  b
+  h
+Board: 
+  h
+  b
+Board: 
+  h
+  b
+Board: 
+  b
+  i
+Board: 
+  b
+  i
+Board: 
+  i
+  b
+Board: 
+  i
+  b
+Board: 
+  b
+  j
+Board: 
+  b
+  j
+Board: 
+  j
+  b
+Board: 
+  j
+  b
+Board: 
+  b
+  k
+Board: 
+  b
+  k
+Board: 
+  k
+  b
+Board: 
+  k
+  b
+Board: 
+  b
+  l
+Board: 
+  b
+  l
+Board: 
+  l
+  b
+Board: 
+  l
+  b
+Board: 
+  b
+  m
+Board: 
+  b
+  m
+Board: 
+  m
+  b
+Board: 
+  m
+  b
+Board: 
+  b
+  n
+Board: 
+  b
+  n
+Board: 
+  n
+  b
+Board: 
+  n
+  b
+Board: 
+  b
+  o
+Board: 
+  b
+  o
+Board: 
+  o
+  b
+Board: 
+  o
+  b
+Board: 
+  b
+  p
+Board: 
+  b
+  p
+Board: 
+  p
+  b
+Board: 
+  p
+  b
+Board: 
+  b
+  q
+Board: 
+  b
+  q
+Board: 
+  q
+  b
+Board: 
+  q
+  b
+Board: 
+  b
+  r
+Board: 
+  b
+  r
+Board: 
+  r
+  b
+Board: 
+  r
+  b
+Board: 
+  b
+  s
+Board: 
+  b
+  s
+Board: 
+  s
+  b
+Board: 
+  s
+  b
+Board: 
+  b
+  t
+Board: 
+  b
+  t
+Board: 
+  t
+  b
+Board: 
+  t
+  b
+Board: 
+  b
+  u
+Board: 
+  b
+  u
+Board: 
+  u
+  b
+Board: 
+  u
+  b
+Board: 
+  b
+  v
+Board: 
+  b
+  v
+Board: 
+  v
+  b
+Board: 
+  v
+  b
+Board: 
+  b
+  w
+Board: 
+  b
+  w
+Board: 
+  w
+  b
+Board: 
+  w
+  b
+Board: 
+  b
+  x
+Board: 
+  b
+  x
+Board: 
+  x
+  b
+Board: 
+  x
+  b
+Board: 
+  b
+  y
+Board: 
+  b
+  y
+Board: 
+  y
+  b
+Board: 
+  y
+  b
+Board: 
+  b
+  z
+Board: 
+  b
+  z
+Board: 
+  z
+  b
+Board: 
+  z
+  b
+Board: 
+  c
+  a
+Board: 
+  c
+  a
+Board: 
+  a
+  c
+Board: 
+  a
+  c
+Board: 
+  c
+  b
+Board: 
+  c
+  b
+Board: 
+  b
+  c
+Board: 
+  b
+  c
+Board: 
+  c
+  c
+Board: 
+  c
+  c
+Board: 
+  c
+  c
+Board: 
+  c
+  c
+Board: 
+  c
+  d
+Board: 
+  c
+  d
+Board: 
+  d
+  c
+Board: 
+  d
+  c
+Board: 
+  c
+  e
+Board: 
+  c
+  e
+Board: 
+  e
+  c
+Board: 
+  e
+  c
+Board: 
+  c
+  f
+Board: 
+  c
+  f
+Board: 
+  f
+  c
+Board: 
+  f
+  c
+Board: 
+  c
+  g
+Board: 
+  c
+  g
+Board: 
+  g
+  c
+Board: 
+  g
+  c
+Board: 
+  c
+  h
+Board: 
+  c
+  h
+Board: 
+  h
+  c
+Board: 
+  h
+  c
+Board: 
+  c
+  i
+Board: 
+  c
+  i
+Board: 
+  i
+  c
+Board: 
+  i
+  c
+Board: 
+  c
+  j
+Board: 
+  c
+  j
+Board: 
+  j
+  c
+Board: 
+  j
+  c
+Board: 
+  c
+  k
+Board: 
+  c
+  k
+Board: 
+  k
+  c
+Board: 
+  k
+  c
+Board: 
+  c
+  l
+Board: 
+  c
+  l
+Board: 
+  l
+  c
+Board: 
+  l
+  c
+Board: 
+  c
+  m
+Board: 
+  c
+  m
+Board: 
+  m
+  c
+Board: 
+  m
+  c
+Board: 
+  c
+  n
+Board: 
+  c
+  n
+Board: 
+  n
+  c
+Board: 
+  n
+  c
+Board: 
+  c
+  o
+Board: 
+  c
+  o
+Board: 
+  o
+  c
+Board: 
+  o
+  c
+Board: 
+  c
+  p
+Board: 
+  c
+  p
+Board: 
+  p
+  c
+Board: 
+  p
+  c
+Board: 
+  c
+  q
+Board: 
+  c
+  q
+Board: 
+  q
+  c
+Board: 
+  q
+  c
+Board: 
+  c
+  r
+Board: 
+  c
+  r
+Board: 
+  r
+  c
+Board: 
+  r
+  c
+Board: 
+  c
+  s
+Board: 
+  c
+  s
+Board: 
+  s
+  c
+Board: 
+  s
+  c
+Board: 
+  c
+  t
+Board: 
+  c
+  t
+Board: 
+  t
+  c
+Board: 
+  t
+  c
+Board: 
+  c
+  u
+Board: 
+  c
+  u
+Board: 
+  u
+  c
+Board: 
+  u
+  c
+Board: 
+  c
+  v
+Board: 
+  c
+  v
+Board: 
+  v
+  c
+Board: 
+  v
+  c
+Board: 
+  c
+  w
+Board: 
+  c
+  w
+Board: 
+  w
+  c
+Board: 
+  w
+  c
+Board: 
+  c
+  x
+Board: 
+  c
+  x
+Board: 
+  x
+  c
+Board: 
+  x
+  c
+Board: 
+  c
+  y
+Board: 
+  c
+  y
+Board: 
+  y
+  c
+Board: 
+  y
+  c
+Board: 
+  c
+  z
+Board: 
+  c
+  z
+Board: 
+  z
+  c
+Board: 
+  z
+  c
+Board: 
+  d
+  a
+Board: 
+  d
+  a
+Board: 
+  a
+  d
+Board: 
+  a
+  d
+Board: 
+  d
+  b
+Board: 
+  d
+  b
+Board: 
+  b
+  d
+Board: 
+  b
+  d
+Board: 
+  d
+  c
+Board: 
+  d
+  c
+Board: 
+  c
+  d
+Board: 
+  c
+  d
+Board: 
+  d
+  d
+Board: 
+  d
+  d
+Board: 
+  d
+  d
+Board: 
+  d
+  d
+Board: 
+  d
+  e
+Board: 
+  d
+  e
+Board: 
+  e
+  d
+Board: 
+  e
+  d
+Board: 
+  d
+  f
+Board: 
+  d
+  f
+Board: 
+  f
+  d
+Board: 
+  f
+  d
+Board: 
+  d
+  g
+Board: 
+  d
+  g
+Board: 
+  g
+  d
+Board: 
+  g
+  d
+Board: 
+  d
+  h
+Board: 
+  d
+  h
+Board: 
+  h
+  d
+Board: 
+  h
+  d
+Board: 
+  d
+  i
+Board: 
+  d
+  i
+Board: 
+  i
+  d
+Board: 
+  i
+  d
+Board: 
+  d
+  j
+Board: 
+  d
+  j
+Board: 
+  j
+  d
+Board: 
+  j
+  d
+Board: 
+  d
+  k
+Board: 
+  d
+  k
+Board: 
+  k
+  d
+Board: 
+  k
+  d
+Board: 
+  d
+  l
+Board: 
+  d
+  l
+Board: 
+  l
+  d
+Board: 
+  l
+  d
+Board: 
+  d
+  m
+Board: 
+  d
+  m
+Board: 
+  m
+  d
+Board: 
+  m
+  d
+Board: 
+  d
+  n
+Board: 
+  d
+  n
+Board: 
+  n
+  d
+Board: 
+  n
+  d
+Board: 
+  d
+  o
+Board: 
+  d
+  o
+Board: 
+  o
+  d
+Board: 
+  o
+  d
+Board: 
+  d
+  p
+Board: 
+  d
+  p
+Board: 
+  p
+  d
+Board: 
+  p
+  d
+Board: 
+  d
+  q
+Board: 
+  d
+  q
+Board: 
+  q
+  d
+Board: 
+  q
+  d
+Board: 
+  d
+  r
+Board: 
+  d
+  r
+Board: 
+  r
+  d
+Board: 
+  r
+  d
+Board: 
+  d
+  s
+Board: 
+  d
+  s
+Board: 
+  s
+  d
+Board: 
+  s
+  d
+Board: 
+  d
+  t
+Board: 
+  d
+  t
+Board: 
+  t
+  d
+Board: 
+  t
+  d
+Board: 
+  d
+  u
+Board: 
+  d
+  u
+Board: 
+  u
+  d
+Board: 
+  u
+  d
+Board: 
+  d
+  v
+Board: 
+  d
+  v
+Board: 
+  v
+  d
+Board: 
+  v
+  d
+Board: 
+  d
+  w
+Board: 
+  d
+  w
+Board: 
+  w
+  d
+Board: 
+  w
+  d
+Board: 
+  d
+  x
+Board: 
+  d
+  x
+Board: 
+  x
+  d
+Board: 
+  x
+  d
+Board: 
+  d
+  y
+Board: 
+  d
+  y
+Board: 
+  y
+  d
+Board: 
+  y
+  d
+Board: 
+  d
+  z
+Board: 
+  d
+  z
+Board: 
+  z
+  d
+Board: 
+  z
+  d
+Board: 
+  e
+  a
+Board: 
+  e
+  a
+Board: 
+  a
+  e
+Board: 
+  a
+  e
+Board: 
+  e
+  b
+Board: 
+  e
+  b
+Board: 
+  b
+  e
+Board: 
+  b
+  e
+Board: 
+  e
+  c
+Board: 
+  e
+  c
+Board: 
+  c
+  e
+Board: 
+  c
+  e
+Board: 
+  e
+  d
+Board: 
+  e
+  d
+Board: 
+  d
+  e
+Board: 
+  d
+  e
+Board: 
+  e
+  e
+Board: 
+  e
+  e
+Board: 
+  e
+  e
+Board: 
+  e
+  e
+Board: 
+  e
+  f
+Board: 
+  e
+  f
+Board: 
+  f
+  e
+Board: 
+  f
+  e
+Board: 
+  e
+  g
+Board: 
+  e
+  g
+Board: 
+  g
+  e
+Board: 
+  g
+  e
+Board: 
+  e
+  h
+Board: 
+  e
+  h
+Board: 
+  h
+  e
+Board: 
+  h
+  e
+Board: 
+  e
+  i
+Board: 
+  e
+  i
+Board: 
+  i
+  e
+Board: 
+  i
+  e
+Board: 
+  e
+  j
+Board: 
+  e
+  j
+Board: 
+  j
+  e
+Board: 
+  j
+  e
+Board: 
+  e
+  k
+Board: 
+  e
+  k
+Board: 
+  k
+  e
+Board: 
+  k
+  e
+Board: 
+  e
+  l
+Board: 
+  e
+  l
+Board: 
+  l
+  e
+Board: 
+  l
+  e
+Board: 
+  e
+  m
+Board: 
+  e
+  m
+Board: 
+  m
+  e
+Board: 
+  m
+  e
+Board: 
+  e
+  n
+Board: 
+  e
+  n
+Board: 
+  n
+  e
+Board: 
+  n
+  e
+Board: 
+  e
+  o
+Board: 
+  e
+  o
+Board: 
+  o
+  e
+Board: 
+  o
+  e
+Board: 
+  e
+  p
+Board: 
+  e
+  p
+Board: 
+  p
+  e
+Board: 
+  p
+  e
+Board: 
+  e
+  q
+Board: 
+  e
+  q
+Board: 
+  q
+  e
+Board: 
+  q
+  e
+Board: 
+  e
+  r
+Board: 
+  e
+  r
+Board: 
+  r
+  e
+Board: 
+  r
+  e
+Board: 
+  e
+  s
+Board: 
+  e
+  s
+Board: 
+  s
+  e
+Board: 
+  s
+  e
+Board: 
+  e
+  t
+Board: 
+  e
+  t
+Board: 
+  t
+  e
+Board: 
+  t
+  e
+Board: 
+  e
+  u
+Board: 
+  e
+  u
+Board: 
+  u
+  e
+Board: 
+  u
+  e
+Board: 
+  e
+  v
+Board: 
+  e
+  v
+Board: 
+  v
+  e
+Board: 
+  v
+  e
+Board: 
+  e
+  w
+Board: 
+  e
+  w
+Board: 
+  w
+  e
+Board: 
+  w
+  e
+Board: 
+  e
+  x
+Board: 
+  e
+  x
+Board: 
+  x
+  e
+Board: 
+  x
+  e
+Board: 
+  e
+  y
+Board: 
+  e
+  y
+Board: 
+  y
+  e
+Board: 
+  y
+  e
+Board: 
+  e
+  z
+Board: 
+  e
+  z
+Board: 
+  z
+  e
+Board: 
+  z
+  e
+Board: 
+  f
+  a
+Board: 
+  f
+  a
+Board: 
+  a
+  f
+Board: 
+  a
+  f
+Board: 
+  f
+  b
+Board: 
+  f
+  b
+Board: 
+  b
+  f
+Board: 
+  b
+  f
+Board: 
+  f
+  c
+Board: 
+  f
+  c
+Board: 
+  c
+  f
+Board: 
+  c
+  f
+Board: 
+  f
+  d
+Board: 
+  f
+  d
+Board: 
+  d
+  f
+Board: 
+  d
+  f
+Board: 
+  f
+  e
+Board: 
+  f
+  e
+Board: 
+  e
+  f
+Board: 
+  e
+  f
+Board: 
+  f
+  f
+Board: 
+  f
+  f
+Board: 
+  f
+  f
+Board: 
+  f
+  f
+Board: 
+  f
+  g
+Board: 
+  f
+  g
+Board: 
+  g
+  f
+Board: 
+  g
+  f
+Board: 
+  f
+  h
+Board: 
+  f
+  h
+Board: 
+  h
+  f
+Board: 
+  h
+  f
+Board: 
+  f
+  i
+Board: 
+  f
+  i
+Board: 
+  i
+  f
+Board: 
+  i
+  f
+Board: 
+  f
+  j
+Board: 
+  f
+  j
+Board: 
+  j
+  f
+Board: 
+  j
+  f
+Board: 
+  f
+  k
+Board: 
+  f
+  k
+Board: 
+  k
+  f
+Board: 
+  k
+  f
+Board: 
+  f
+  l
+Board: 
+  f
+  l
+Board: 
+  l
+  f
+Board: 
+  l
+  f
+Board: 
+  f
+  m
+Board: 
+  f
+  m
+Board: 
+  m
+  f
+Board: 
+  m
+  f
+Board: 
+  f
+  n
+Board: 
+  f
+  n
+Board: 
+  n
+  f
+Board: 
+  n
+  f
+Board: 
+  f
+  o
+Board: 
+  f
+  o
+Board: 
+  o
+  f
+Board: 
+  o
+  f
+Board: 
+  f
+  p
+Board: 
+  f
+  p
+Board: 
+  p
+  f
+Board: 
+  p
+  f
+Board: 
+  f
+  q
+Board: 
+  f
+  q
+Board: 
+  q
+  f
+Board: 
+  q
+  f
+Board: 
+  f
+  r
+Board: 
+  f
+  r
+Board: 
+  r
+  f
+Board: 
+  r
+  f
+Board: 
+  f
+  s
+Board: 
+  f
+  s
+Board: 
+  s
+  f
+Board: 
+  s
+  f
+Board: 
+  f
+  t
+Board: 
+  f
+  t
+Board: 
+  t
+  f
+Board: 
+  t
+  f
+Board: 
+  f
+  u
+Board: 
+  f
+  u
+Board: 
+  u
+  f
+Board: 
+  u
+  f
+Board: 
+  f
+  v
+Board: 
+  f
+  v
+Board: 
+  v
+  f
+Board: 
+  v
+  f
+Board: 
+  f
+  w
+Board: 
+  f
+  w
+Board: 
+  w
+  f
+Board: 
+  w
+  f
+Board: 
+  f
+  x
+Board: 
+  f
+  x
+Board: 
+  x
+  f
+Board: 
+  x
+  f
+Board: 
+  f
+  y
+Board: 
+  f
+  y
+Board: 
+  y
+  f
+Board: 
+  y
+  f
+Board: 
+  f
+  z
+Board: 
+  f
+  z
+Board: 
+  z
+  f
+Board: 
+  z
+  f
+Board: 
+  g
+  a
+Board: 
+  g
+  a
+Board: 
+  a
+  g
+Board: 
+  a
+  g
+Board: 
+  g
+  b
+Board: 
+  g
+  b
+Board: 
+  b
+  g
+Board: 
+  b
+  g
+Board: 
+  g
+  c
+Board: 
+  g
+  c
+Board: 
+  c
+  g
+Board: 
+  c
+  g
+Board: 
+  g
+  d
+Board: 
+  g
+  d
+Board: 
+  d
+  g
+Board: 
+  d
+  g
+Board: 
+  g
+  e
+Board: 
+  g
+  e
+Board: 
+  e
+  g
+Board: 
+  e
+  g
+Board: 
+  g
+  f
+Board: 
+  g
+  f
+Board: 
+  f
+  g
+Board: 
+  f
+  g
+Board: 
+  g
+  g
+Board: 
+  g
+  g
+Board: 
+  g
+  g
+Board: 
+  g
+  g
+Board: 
+  g
+  h
+Board: 
+  g
+  h
+Board: 
+  h
+  g
+Board: 
+  h
+  g
+Board: 
+  g
+  i
+Board: 
+  g
+  i
+Board: 
+  i
+  g
+Board: 
+  i
+  g
+Board: 
+  g
+  j
+Board: 
+  g
+  j
+Board: 
+  j
+  g
+Board: 
+  j
+  g
+Board: 
+  g
+  k
+Board: 
+  g
+  k
+Board: 
+  k
+  g
+Board: 
+  k
+  g
+Board: 
+  g
+  l
+Board: 
+  g
+  l
+Board: 
+  l
+  g
+Board: 
+  l
+  g
+Board: 
+  g
+  m
+Board: 
+  g
+  m
+Board: 
+  m
+  g
+Board: 
+  m
+  g
+Board: 
+  g
+  n
+Board: 
+  g
+  n
+Board: 
+  n
+  g
+Board: 
+  n
+  g
+Board: 
+  g
+  o
+Board: 
+  g
+  o
+Board: 
+  o
+  g
+Board: 
+  o
+  g
+Board: 
+  g
+  p
+Board: 
+  g
+  p
+Board: 
+  p
+  g
+Board: 
+  p
+  g
+Board: 
+  g
+  q
+Board: 
+  g
+  q
+Board: 
+  q
+  g
+Board: 
+  q
+  g
+Board: 
+  g
+  r
+Board: 
+  g
+  r
+Board: 
+  r
+  g
+Board: 
+  r
+  g
+Board: 
+  g
+  s
+Board: 
+  g
+  s
+Board: 
+  s
+  g
+Board: 
+  s
+  g
+Board: 
+  g
+  t
+Board: 
+  g
+  t
+Board: 
+  t
+  g
+Board: 
+  t
+  g
+Board: 
+  g
+  u
+Board: 
+  g
+  u
+Board: 
+  u
+  g
+Board: 
+  u
+  g
+Board: 
+  g
+  v
+Board: 
+  g
+  v
+Board: 
+  v
+  g
+Board: 
+  v
+  g
+Board: 
+  g
+  w
+Board: 
+  g
+  w
+Board: 
+  w
+  g
+Board: 
+  w
+  g
+Board: 
+  g
+  x
+Board: 
+  g
+  x
+Board: 
+  x
+  g
+Board: 
+  x
+  g
+Board: 
+  g
+  y
+Board: 
+  g
+  y
+Board: 
+  y
+  g
+Board: 
+  y
+  g
+Board: 
+  g
+  z
+Board: 
+  g
+  z
+Board: 
+  z
+  g
+Board: 
+  z
+  g
+Board: 
+  h
+  a
+Board: 
+  h
+  a
+Board: 
+  a
+  h
+Board: 
+  a
+  h
+Board: 
+  h
+  b
+Board: 
+  h
+  b
+Board: 
+  b
+  h
+Board: 
+  b
+  h
+Board: 
+  h
+  c
+Board: 
+  h
+  c
+Board: 
+  c
+  h
+Board: 
+  c
+  h
+Board: 
+  h
+  d
+Board: 
+  h
+  d
+Board: 
+  d
+  h
+Board: 
+  d
+  h
+Board: 
+  h
+  e
+Board: 
+  h
+  e
+Board: 
+  e
+  h
+Board: 
+  e
+  h
+Board: 
+  h
+  f
+Board: 
+  h
+  f
+Board: 
+  f
+  h
+Board: 
+  f
+  h
+Board: 
+  h
+  g
+Board: 
+  h
+  g
+Board: 
+  g
+  h
+Board: 
+  g
+  h
+Board: 
+  h
+  h
+Board: 
+  h
+  h
+Board: 
+  h
+  h
+Board: 
+  h
+  h
+Board: 
+  h
+  i
+Board: 
+  h
+  i
+Board: 
+  i
+  h
+Board: 
+  i
+  h
+Board: 
+  h
+  j
+Board: 
+  h
+  j
+Board: 
+  j
+  h
+Board: 
+  j
+  h
+Board: 
+  h
+  k
+Board: 
+  h
+  k
+Board: 
+  k
+  h
+Board: 
+  k
+  h
+Board: 
+  h
+  l
+Board: 
+  h
+  l
+Board: 
+  l
+  h
+Board: 
+  l
+  h
+Board: 
+  h
+  m
+Board: 
+  h
+  m
+Board: 
+  m
+  h
+Board: 
+  m
+  h
+Board: 
+  h
+  n
+Board: 
+  h
+  n
+Board: 
+  n
+  h
+Board: 
+  n
+  h
+Board: 
+  h
+  o
+Board: 
+  h
+  o
+Board: 
+  o
+  h
+Board: 
+  o
+  h
+Board: 
+  h
+  p
+Board: 
+  h
+  p
+Board: 
+  p
+  h
+Board: 
+  p
+  h
+Board: 
+  h
+  q
+Board: 
+  h
+  q
+Board: 
+  q
+  h
+Board: 
+  q
+  h
+Board: 
+  h
+  r
+Board: 
+  h
+  r
+Board: 
+  r
+  h
+Board: 
+  r
+  h
+Board: 
+  h
+  s
+Board: 
+  h
+  s
+Board: 
+  s
+  h
+Board: 
+  s
+  h
+Board: 
+  h
+  t
+Board: 
+  h
+  t
+Board: 
+  t
+  h
+Board: 
+  t
+  h
+Board: 
+  h
+  u
+Board: 
+  h
+  u
+Board: 
+  u
+  h
+Board: 
+  u
+  h
+Board: 
+  h
+  v
+Board: 
+  h
+  v
+Board: 
+  v
+  h
+Board: 
+  v
+  h
+Board: 
+  h
+  w
+Board: 
+  h
+  w
+Board: 
+  w
+  h
+Board: 
+  w
+  h
+Board: 
+  h
+  x
+Board: 
+  h
+  x
+Board: 
+  x
+  h
+Board: 
+  x
+  h
+Board: 
+  h
+  y
+Board: 
+  h
+  y
+Board: 
+  y
+  h
+Board: 
+  y
+  h
+Board: 
+  h
+  z
+Board: 
+  h
+  z
+Board: 
+  z
+  h
+Board: 
+  z
+  h
+Board: 
+  i
+  a
+Board: 
+  i
+  a
+Board: 
+  a
+  i
+Board: 
+  a
+  i
+Board: 
+  i
+  b
+Board: 
+  i
+  b
+Board: 
+  b
+  i
+Board: 
+  b
+  i
+Board: 
+  i
+  c
+Board: 
+  i
+  c
+Board: 
+  c
+  i
+Board: 
+  c
+  i
+Board: 
+  i
+  d
+Board: 
+  i
+  d
+Board: 
+  d
+  i
+Board: 
+  d
+  i
+Board: 
+  i
+  e
+Board: 
+  i
+  e
+Board: 
+  e
+  i
+Board: 
+  e
+  i
+Board: 
+  i
+  f
+Board: 
+  i
+  f
+Board: 
+  f
+  i
+Board: 
+  f
+  i
+Board: 
+  i
+  g
+Board: 
+  i
+  g
+Board: 
+  g
+  i
+Board: 
+  g
+  i
+Board: 
+  i
+  h
+Board: 
+  i
+  h
+Board: 
+  h
+  i
+Board: 
+  h
+  i
+Board: 
+  i
+  i
+Board: 
+  i
+  i
+Board: 
+  i
+  i
+Board: 
+  i
+  i
+Board: 
+  i
+  j
+Board: 
+  i
+  j
+Board: 
+  j
+  i
+Board: 
+  j
+  i
+Board: 
+  i
+  k
+Board: 
+  i
+  k
+Board: 
+  k
+  i
+Board: 
+  k
+  i
+Board: 
+  i
+  l
+Board: 
+  i
+  l
+Board: 
+  l
+  i
+Board: 
+  l
+  i
+Board: 
+  i
+  m
+Board: 
+  i
+  m
+Board: 
+  m
+  i
+Board: 
+  m
+  i
+Board: 
+  i
+  n
+Board: 
+  i
+  n
+Board: 
+  n
+  i
+Board: 
+  n
+  i
+Board: 
+  i
+  o
+Board: 
+  i
+  o
+Board: 
+  o
+  i
+Board: 
+  o
+  i
+Board: 
+  i
+  p
+Board: 
+  i
+  p
+Board: 
+  p
+  i
+Board: 
+  p
+  i
+Board: 
+  i
+  q
+Board: 
+  i
+  q
+Board: 
+  q
+  i
+Board: 
+  q
+  i
+Board: 
+  i
+  r
+Board: 
+  i
+  r
+Board: 
+  r
+  i
+Board: 
+  r
+  i
+Board: 
+  i
+  s
+Board: 
+  i
+  s
+Board: 
+  s
+  i
+Board: 
+  s
+  i
+Board: 
+  i
+  t
+Board: 
+  i
+  t
+Board: 
+  t
+  i
+Board: 
+  t
+  i
+Board: 
+  i
+  u
+Board: 
+  i
+  u
+Board: 
+  u
+  i
+Board: 
+  u
+  i
+Board: 
+  i
+  v
+Board: 
+  i
+  v
+Board: 
+  v
+  i
+Board: 
+  v
+  i
+Board: 
+  i
+  w
+Board: 
+  i
+  w
+Board: 
+  w
+  i
+Board: 
+  w
+  i
+Board: 
+  i
+  x
+Board: 
+  i
+  x
+Board: 
+  x
+  i
+Board: 
+  x
+  i
+Board: 
+  i
+  y
+Board: 
+  i
+  y
+Board: 
+  y
+  i
+Board: 
+  y
+  i
+Board: 
+  i
+  z
+Board: 
+  i
+  z
+Board: 
+  z
+  i
+Board: 
+  z
+  i
+Board: 
+  j
+  a
+Board: 
+  j
+  a
+Board: 
+  a
+  j
+Board: 
+  a
+  j
+Board: 
+  j
+  b
+Board: 
+  j
+  b
+Board: 
+  b
+  j
+Board: 
+  b
+  j
+Board: 
+  j
+  c
+Board: 
+  j
+  c
+Board: 
+  c
+  j
+Board: 
+  c
+  j
+Board: 
+  j
+  d
+Board: 
+  j
+  d
+Board: 
+  d
+  j
+Board: 
+  d
+  j
+Board: 
+  j
+  e
+Board: 
+  j
+  e
+Board: 
+  e
+  j
+Board: 
+  e
+  j
+Board: 
+  j
+  f
+Board: 
+  j
+  f
+Board: 
+  f
+  j
+Board: 
+  f
+  j
+Board: 
+  j
+  g
+Board: 
+  j
+  g
+Board: 
+  g
+  j
+Board: 
+  g
+  j
+Board: 
+  j
+  h
+Board: 
+  j
+  h
+Board: 
+  h
+  j
+Board: 
+  h
+  j
+Board: 
+  j
+  i
+Board: 
+  j
+  i
+Board: 
+  i
+  j
+Board: 
+  i
+  j
+Board: 
+  j
+  j
+Board: 
+  j
+  j
+Board: 
+  j
+  j
+Board: 
+  j
+  j
+Board: 
+  j
+  k
+Board: 
+  j
+  k
+Board: 
+  k
+  j
+Board: 
+  k
+  j
+Board: 
+  j
+  l
+Board: 
+  j
+  l
+Board: 
+  l
+  j
+Board: 
+  l
+  j
+Board: 
+  j
+  m
+Board: 
+  j
+  m
+Board: 
+  m
+  j
+Board: 
+  m
+  j
+Board: 
+  j
+  n
+Board: 
+  j
+  n
+Board: 
+  n
+  j
+Board: 
+  n
+  j
+Board: 
+  j
+  o
+Board: 
+  j
+  o
+Board: 
+  o
+  j
+Board: 
+  o
+  j
+Board: 
+  j
+  p
+Board: 
+  j
+  p
+Board: 
+  p
+  j
+Board: 
+  p
+  j
+Board: 
+  j
+  q
+Board: 
+  j
+  q
+Board: 
+  q
+  j
+Board: 
+  q
+  j
+Board: 
+  j
+  r
+Board: 
+  j
+  r
+Board: 
+  r
+  j
+Board: 
+  r
+  j
+Board: 
+  j
+  s
+Board: 
+  j
+  s
+Board: 
+  s
+  j
+Board: 
+  s
+  j
+Board: 
+  j
+  t
+Board: 
+  j
+  t
+Board: 
+  t
+  j
+Board: 
+  t
+  j
+Board: 
+  j
+  u
+Board: 
+  j
+  u
+Board: 
+  u
+  j
+Board: 
+  u
+  j
+Board: 
+  j
+  v
+Board: 
+  j
+  v
+Board: 
+  v
+  j
+Board: 
+  v
+  j
+Board: 
+  j
+  w
+Board: 
+  j
+  w
+Board: 
+  w
+  j
+Board: 
+  w
+  j
+Board: 
+  j
+  x
+Board: 
+  j
+  x
+Board: 
+  x
+  j
+Board: 
+  x
+  j
+Board: 
+  j
+  y
+Board: 
+  j
+  y
+Board: 
+  y
+  j
+Board: 
+  y
+  j
+Board: 
+  j
+  z
+Board: 
+  j
+  z
+Board: 
+  z
+  j
+Board: 
+  z
+  j
+Board: 
+  k
+  a
+Board: 
+  k
+  a
+Board: 
+  a
+  k
+Board: 
+  a
+  k
+Board: 
+  k
+  b
+Board: 
+  k
+  b
+Board: 
+  b
+  k
+Board: 
+  b
+  k
+Board: 
+  k
+  c
+Board: 
+  k
+  c
+Board: 
+  c
+  k
+Board: 
+  c
+  k
+Board: 
+  k
+  d
+Board: 
+  k
+  d
+Board: 
+  d
+  k
+Board: 
+  d
+  k
+Board: 
+  k
+  e
+Board: 
+  k
+  e
+Board: 
+  e
+  k
+Board: 
+  e
+  k
+Board: 
+  k
+  f
+Board: 
+  k
+  f
+Board: 
+  f
+  k
+Board: 
+  f
+  k
+Board: 
+  k
+  g
+Board: 
+  k
+  g
+Board: 
+  g
+  k
+Board: 
+  g
+  k
+Board: 
+  k
+  h
+Board: 
+  k
+  h
+Board: 
+  h
+  k
+Board: 
+  h
+  k
+Board: 
+  k
+  i
+Board: 
+  k
+  i
+Board: 
+  i
+  k
+Board: 
+  i
+  k
+Board: 
+  k
+  j
+Board: 
+  k
+  j
+Board: 
+  j
+  k
+Board: 
+  j
+  k
+Board: 
+  k
+  k
+Board: 
+  k
+  k
+Board: 
+  k
+  k
+Board: 
+  k
+  k
+Board: 
+  k
+  l
+Board: 
+  k
+  l
+Board: 
+  l
+  k
+Board: 
+  l
+  k
+Board: 
+  k
+  m
+Board: 
+  k
+  m
+Board: 
+  m
+  k
+Board: 
+  m
+  k
+Board: 
+  k
+  n
+Board: 
+  k
+  n
+Board: 
+  n
+  k
+Board: 
+  n
+  k
+Board: 
+  k
+  o
+Board: 
+  k
+  o
+Board: 
+  o
+  k
+Board: 
+  o
+  k
+Board: 
+  k
+  p
+Board: 
+  k
+  p
+Board: 
+  p
+  k
+Board: 
+  p
+  k
+Board: 
+  k
+  q
+Board: 
+  k
+  q
+Board: 
+  q
+  k
+Board: 
+  q
+  k
+Board: 
+  k
+  r
+Board: 
+  k
+  r
+Board: 
+  r
+  k
+Board: 
+  r
+  k
+Board: 
+  k
+  s
+Board: 
+  k
+  s
+Board: 
+  s
+  k
+Board: 
+  s
+  k
+Board: 
+  k
+  t
+Board: 
+  k
+  t
+Board: 
+  t
+  k
+Board: 
+  t
+  k
+Board: 
+  k
+  u
+Board: 
+  k
+  u
+Board: 
+  u
+  k
+Board: 
+  u
+  k
+Board: 
+  k
+  v
+Board: 
+  k
+  v
+Board: 
+  v
+  k
+Board: 
+  v
+  k
+Board: 
+  k
+  w
+Board: 
+  k
+  w
+Board: 
+  w
+  k
+Board: 
+  w
+  k
+Board: 
+  k
+  x
+Board: 
+  k
+  x
+Board: 
+  x
+  k
+Board: 
+  x
+  k
+Board: 
+  k
+  y
+Board: 
+  k
+  y
+Board: 
+  y
+  k
+Board: 
+  y
+  k
+Board: 
+  k
+  z
+Board: 
+  k
+  z
+Board: 
+  z
+  k
+Board: 
+  z
+  k
+Board: 
+  l
+  a
+Board: 
+  l
+  a
+Board: 
+  a
+  l
+Board: 
+  a
+  l
+Board: 
+  l
+  b
+Board: 
+  l
+  b
+Board: 
+  b
+  l
+Board: 
+  b
+  l
+Board: 
+  l
+  c
+Board: 
+  l
+  c
+Board: 
+  c
+  l
+Board: 
+  c
+  l
+Board: 
+  l
+  d
+Board: 
+  l
+  d
+Board: 
+  d
+  l
+Board: 
+  d
+  l
+Board: 
+  l
+  e
+Board: 
+  l
+  e
+Board: 
+  e
+  l
+Board: 
+  e
+  l
+Board: 
+  l
+  f
+Board: 
+  l
+  f
+Board: 
+  f
+  l
+Board: 
+  f
+  l
+Board: 
+  l
+  g
+Board: 
+  l
+  g
+Board: 
+  g
+  l
+Board: 
+  g
+  l
+Board: 
+  l
+  h
+Board: 
+  l
+  h
+Board: 
+  h
+  l
+Board: 
+  h
+  l
+Board: 
+  l
+  i
+Board: 
+  l
+  i
+Board: 
+  i
+  l
+Board: 
+  i
+  l
+Board: 
+  l
+  j
+Board: 
+  l
+  j
+Board: 
+  j
+  l
+Board: 
+  j
+  l
+Board: 
+  l
+  k
+Board: 
+  l
+  k
+Board: 
+  k
+  l
+Board: 
+  k
+  l
+Board: 
+  l
+  l
+Board: 
+  l
+  l
+Board: 
+  l
+  l
+Board: 
+  l
+  l
+Board: 
+  l
+  m
+Board: 
+  l
+  m
+Board: 
+  m
+  l
+Board: 
+  m
+  l
+Board: 
+  l
+  n
+Board: 
+  l
+  n
+Board: 
+  n
+  l
+Board: 
+  n
+  l
+Board: 
+  l
+  o
+Board: 
+  l
+  o
+Board: 
+  o
+  l
+Board: 
+  o
+  l
+Board: 
+  l
+  p
+Board: 
+  l
+  p
+Board: 
+  p
+  l
+Board: 
+  p
+  l
+Board: 
+  l
+  q
+Board: 
+  l
+  q
+Board: 
+  q
+  l
+Board: 
+  q
+  l
+Board: 
+  l
+  r
+Board: 
+  l
+  r
+Board: 
+  r
+  l
+Board: 
+  r
+  l
+Board: 
+  l
+  s
+Board: 
+  l
+  s
+Board: 
+  s
+  l
+Board: 
+  s
+  l
+Board: 
+  l
+  t
+Board: 
+  l
+  t
+Board: 
+  t
+  l
+Board: 
+  t
+  l
+Board: 
+  l
+  u
+Board: 
+  l
+  u
+Board: 
+  u
+  l
+Board: 
+  u
+  l
+Board: 
+  l
+  v
+Board: 
+  l
+  v
+Board: 
+  v
+  l
+Board: 
+  v
+  l
+Board: 
+  l
+  w
+Board: 
+  l
+  w
+Board: 
+  w
+  l
+Board: 
+  w
+  l
+Board: 
+  l
+  x
+Board: 
+  l
+  x
+Board: 
+  x
+  l
+Board: 
+  x
+  l
+Board: 
+  l
+  y
+Board: 
+  l
+  y
+Board: 
+  y
+  l
+Board: 
+  y
+  l
+Board: 
+  l
+  z
+Board: 
+  l
+  z
+Board: 
+  z
+  l
+Board: 
+  z
+  l
+Board: 
+  m
+  a
+Board: 
+  m
+  a
+Board: 
+  a
+  m
+Board: 
+  a
+  m
+Board: 
+  m
+  b
+Board: 
+  m
+  b
+Board: 
+  b
+  m
+Board: 
+  b
+  m
+Board: 
+  m
+  c
+Board: 
+  m
+  c
+Board: 
+  c
+  m
+Board: 
+  c
+  m
+Board: 
+  m
+  d
+Board: 
+  m
+  d
+Board: 
+  d
+  m
+Board: 
+  d
+  m
+Board: 
+  m
+  e
+Board: 
+  m
+  e
+Board: 
+  e
+  m
+Board: 
+  e
+  m
+Board: 
+  m
+  f
+Board: 
+  m
+  f
+Board: 
+  f
+  m
+Board: 
+  f
+  m
+Board: 
+  m
+  g
+Board: 
+  m
+  g
+Board: 
+  g
+  m
+Board: 
+  g
+  m
+Board: 
+  m
+  h
+Board: 
+  m
+  h
+Board: 
+  h
+  m
+Board: 
+  h
+  m
+Board: 
+  m
+  i
+Board: 
+  m
+  i
+Board: 
+  i
+  m
+Board: 
+  i
+  m
+Board: 
+  m
+  j
+Board: 
+  m
+  j
+Board: 
+  j
+  m
+Board: 
+  j
+  m
+Board: 
+  m
+  k
+Board: 
+  m
+  k
+Board: 
+  k
+  m
+Board: 
+  k
+  m
+Board: 
+  m
+  l
+Board: 
+  m
+  l
+Board: 
+  l
+  m
+Board: 
+  l
+  m
+Board: 
+  m
+  m
+Board: 
+  m
+  m
+Board: 
+  m
+  m
+Board: 
+  m
+  m
+Board: 
+  m
+  n
+Board: 
+  m
+  n
+Board: 
+  n
+  m
+Board: 
+  n
+  m
+Board: 
+  m
+  o
+Board: 
+  m
+  o
+Board: 
+  o
+  m
+Board: 
+  o
+  m
+Board: 
+  m
+  p
+Board: 
+  m
+  p
+Board: 
+  p
+  m
+Board: 
+  p
+  m
+Board: 
+  m
+  q
+Board: 
+  m
+  q
+Board: 
+  q
+  m
+Board: 
+  q
+  m
+Board: 
+  m
+  r
+Board: 
+  m
+  r
+Board: 
+  r
+  m
+Board: 
+  r
+  m
+Board: 
+  m
+  s
+Board: 
+  m
+  s
+Board: 
+  s
+  m
+Board: 
+  s
+  m
+Board: 
+  m
+  t
+Board: 
+  m
+  t
+Board: 
+  t
+  m
+Board: 
+  t
+  m
+Board: 
+  m
+  u
+Board: 
+  m
+  u
+Board: 
+  u
+  m
+Board: 
+  u
+  m
+Board: 
+  m
+  v
+Board: 
+  m
+  v
+Board: 
+  v
+  m
+Board: 
+  v
+  m
+Board: 
+  m
+  w
+Board: 
+  m
+  w
+Board: 
+  w
+  m
+Board: 
+  w
+  m
+Board: 
+  m
+  x
+Board: 
+  m
+  x
+Board: 
+  x
+  m
+Board: 
+  x
+  m
+Board: 
+  m
+  y
+Board: 
+  m
+  y
+Board: 
+  y
+  m
+Board: 
+  y
+  m
+Board: 
+  m
+  z
+Board: 
+  m
+  z
+Board: 
+  z
+  m
+Board: 
+  z
+  m
+Board: 
+  n
+  a
+Board: 
+  n
+  a
+Board: 
+  a
+  n
+Board: 
+  a
+  n
+Board: 
+  n
+  b
+Board: 
+  n
+  b
+Board: 
+  b
+  n
+Board: 
+  b
+  n
+Board: 
+  n
+  c
+Board: 
+  n
+  c
+Board: 
+  c
+  n
+Board: 
+  c
+  n
+Board: 
+  n
+  d
+Board: 
+  n
+  d
+Board: 
+  d
+  n
+Board: 
+  d
+  n
+Board: 
+  n
+  e
+Board: 
+  n
+  e
+Board: 
+  e
+  n
+Board: 
+  e
+  n
+Board: 
+  n
+  f
+Board: 
+  n
+  f
+Board: 
+  f
+  n
+Board: 
+  f
+  n
+Board: 
+  n
+  g
+Board: 
+  n
+  g
+Board: 
+  g
+  n
+Board: 
+  g
+  n
+Board: 
+  n
+  h
+Board: 
+  n
+  h
+Board: 
+  h
+  n
+Board: 
+  h
+  n
+Board: 
+  n
+  i
+Board: 
+  n
+  i
+Board: 
+  i
+  n
+Board: 
+  i
+  n
+Board: 
+  n
+  j
+Board: 
+  n
+  j
+Board: 
+  j
+  n
+Board: 
+  j
+  n
+Board: 
+  n
+  k
+Board: 
+  n
+  k
+Board: 
+  k
+  n
+Board: 
+  k
+  n
+Board: 
+  n
+  l
+Board: 
+  n
+  l
+Board: 
+  l
+  n
+Board: 
+  l
+  n
+Board: 
+  n
+  m
+Board: 
+  n
+  m
+Board: 
+  m
+  n
+Board: 
+  m
+  n
+Board: 
+  n
+  n
+Board: 
+  n
+  n
+Board: 
+  n
+  n
+Board: 
+  n
+  n
+Board: 
+  n
+  o
+Board: 
+  n
+  o
+Board: 
+  o
+  n
+Board: 
+  o
+  n
+Board: 
+  n
+  p
+Board: 
+  n
+  p
+Board: 
+  p
+  n
+Board: 
+  p
+  n
+Board: 
+  n
+  q
+Board: 
+  n
+  q
+Board: 
+  q
+  n
+Board: 
+  q
+  n
+Board: 
+  n
+  r
+Board: 
+  n
+  r
+Board: 
+  r
+  n
+Board: 
+  r
+  n
+Board: 
+  n
+  s
+Board: 
+  n
+  s
+Board: 
+  s
+  n
+Board: 
+  s
+  n
+Board: 
+  n
+  t
+Board: 
+  n
+  t
+Board: 
+  t
+  n
+Board: 
+  t
+  n
+Board: 
+  n
+  u
+Board: 
+  n
+  u
+Board: 
+  u
+  n
+Board: 
+  u
+  n
+Board: 
+  n
+  v
+Board: 
+  n
+  v
+Board: 
+  v
+  n
+Board: 
+  v
+  n
+Board: 
+  n
+  w
+Board: 
+  n
+  w
+Board: 
+  w
+  n
+Board: 
+  w
+  n
+Board: 
+  n
+  x
+Board: 
+  n
+  x
+Board: 
+  x
+  n
+Board: 
+  x
+  n
+Board: 
+  n
+  y
+Board: 
+  n
+  y
+Board: 
+  y
+  n
+Board: 
+  y
+  n
+Board: 
+  n
+  z
+Board: 
+  n
+  z
+Board: 
+  z
+  n
+Board: 
+  z
+  n
+Board: 
+  o
+  a
+Board: 
+  o
+  a
+Board: 
+  a
+  o
+Board: 
+  a
+  o
+Board: 
+  o
+  b
+Board: 
+  o
+  b
+Board: 
+  b
+  o
+Board: 
+  b
+  o
+Board: 
+  o
+  c
+Board: 
+  o
+  c
+Board: 
+  c
+  o
+Board: 
+  c
+  o
+Board: 
+  o
+  d
+Board: 
+  o
+  d
+Board: 
+  d
+  o
+Board: 
+  d
+  o
+Board: 
+  o
+  e
+Board: 
+  o
+  e
+Board: 
+  e
+  o
+Board: 
+  e
+  o
+Board: 
+  o
+  f
+Board: 
+  o
+  f
+Board: 
+  f
+  o
+Board: 
+  f
+  o
+Board: 
+  o
+  g
+Board: 
+  o
+  g
+Board: 
+  g
+  o
+Board: 
+  g
+  o
+Board: 
+  o
+  h
+Board: 
+  o
+  h
+Board: 
+  h
+  o
+Board: 
+  h
+  o
+Board: 
+  o
+  i
+Board: 
+  o
+  i
+Board: 
+  i
+  o
+Board: 
+  i
+  o
+Board: 
+  o
+  j
+Board: 
+  o
+  j
+Board: 
+  j
+  o
+Board: 
+  j
+  o
+Board: 
+  o
+  k
+Board: 
+  o
+  k
+Board: 
+  k
+  o
+Board: 
+  k
+  o
+Board: 
+  o
+  l
+Board: 
+  o
+  l
+Board: 
+  l
+  o
+Board: 
+  l
+  o
+Board: 
+  o
+  m
+Board: 
+  o
+  m
+Board: 
+  m
+  o
+Board: 
+  m
+  o
+Board: 
+  o
+  n
+Board: 
+  o
+  n
+Board: 
+  n
+  o
+Board: 
+  n
+  o
+Board: 
+  o
+  o
+Board: 
+  o
+  o
+Board: 
+  o
+  o
+Board: 
+  o
+  o
+Board: 
+  o
+  p
+Board: 
+  o
+  p
+Board: 
+  p
+  o
+Board: 
+  p
+  o
+Board: 
+  o
+  q
+Board: 
+  o
+  q
+Board: 
+  q
+  o
+Board: 
+  q
+  o
+Board: 
+  o
+  r
+Board: 
+  o
+  r
+Board: 
+  r
+  o
+Board: 
+  r
+  o
+Board: 
+  o
+  s
+Board: 
+  o
+  s
+Board: 
+  s
+  o
+Board: 
+  s
+  o
+Board: 
+  o
+  t
+Board: 
+  o
+  t
+Board: 
+  t
+  o
+Board: 
+  t
+  o
+Board: 
+  o
+  u
+Board: 
+  o
+  u
+Board: 
+  u
+  o
+Board: 
+  u
+  o
+Board: 
+  o
+  v
+Board: 
+  o
+  v
+Board: 
+  v
+  o
+Board: 
+  v
+  o
+Board: 
+  o
+  w
+Board: 
+  o
+  w
+Board: 
+  w
+  o
+Board: 
+  w
+  o
+Board: 
+  o
+  x
+Board: 
+  o
+  x
+Board: 
+  x
+  o
+Board: 
+  x
+  o
+Board: 
+  o
+  y
+Board: 
+  o
+  y
+Board: 
+  y
+  o
+Board: 
+  y
+  o
+Board: 
+  o
+  z
+Board: 
+  o
+  z
+Board: 
+  z
+  o
+Board: 
+  z
+  o
+Board: 
+  p
+  a
+Board: 
+  p
+  a
+Board: 
+  a
+  p
+Board: 
+  a
+  p
+Board: 
+  p
+  b
+Board: 
+  p
+  b
+Board: 
+  b
+  p
+Board: 
+  b
+  p
+Board: 
+  p
+  c
+Board: 
+  p
+  c
+Board: 
+  c
+  p
+Board: 
+  c
+  p
+Board: 
+  p
+  d
+Board: 
+  p
+  d
+Board: 
+  d
+  p
+Board: 
+  d
+  p
+Board: 
+  p
+  e
+Board: 
+  p
+  e
+Board: 
+  e
+  p
+Board: 
+  e
+  p
+Board: 
+  p
+  f
+Board: 
+  p
+  f
+Board: 
+  f
+  p
+Board: 
+  f
+  p
+Board: 
+  p
+  g
+Board: 
+  p
+  g
+Board: 
+  g
+  p
+Board: 
+  g
+  p
+Board: 
+  p
+  h
+Board: 
+  p
+  h
+Board: 
+  h
+  p
+Board: 
+  h
+  p
+Board: 
+  p
+  i
+Board: 
+  p
+  i
+Board: 
+  i
+  p
+Board: 
+  i
+  p
+Board: 
+  p
+  j
+Board: 
+  p
+  j
+Board: 
+  j
+  p
+Board: 
+  j
+  p
+Board: 
+  p
+  k
+Board: 
+  p
+  k
+Board: 
+  k
+  p
+Board: 
+  k
+  p
+Board: 
+  p
+  l
+Board: 
+  p
+  l
+Board: 
+  l
+  p
+Board: 
+  l
+  p
+Board: 
+  p
+  m
+Board: 
+  p
+  m
+Board: 
+  m
+  p
+Board: 
+  m
+  p
+Board: 
+  p
+  n
+Board: 
+  p
+  n
+Board: 
+  n
+  p
+Board: 
+  n
+  p
+Board: 
+  p
+  o
+Board: 
+  p
+  o
+Board: 
+  o
+  p
+Board: 
+  o
+  p
+Board: 
+  p
+  p
+Board: 
+  p
+  p
+Board: 
+  p
+  p
+Board: 
+  p
+  p
+Board: 
+  p
+  q
+Board: 
+  p
+  q
+Board: 
+  q
+  p
+Board: 
+  q
+  p
+Board: 
+  p
+  r
+Board: 
+  p
+  r
+Board: 
+  r
+  p
+Board: 
+  r
+  p
+Board: 
+  p
+  s
+Board: 
+  p
+  s
+Board: 
+  s
+  p
+Board: 
+  s
+  p
+Board: 
+  p
+  t
+Board: 
+  p
+  t
+Board: 
+  t
+  p
+Board: 
+  t
+  p
+Board: 
+  p
+  u
+Board: 
+  p
+  u
+Board: 
+  u
+  p
+Board: 
+  u
+  p
+Board: 
+  p
+  v
+Board: 
+  p
+  v
+Board: 
+  v
+  p
+Board: 
+  v
+  p
+Board: 
+  p
+  w
+Board: 
+  p
+  w
+Board: 
+  w
+  p
+Board: 
+  w
+  p
+Board: 
+  p
+  x
+Board: 
+  p
+  x
+Board: 
+  x
+  p
+Board: 
+  x
+  p
+Board: 
+  p
+  y
+Board: 
+  p
+  y
+Board: 
+  y
+  p
+Board: 
+  y
+  p
+Board: 
+  p
+  z
+Board: 
+  p
+  z
+Board: 
+  z
+  p
+Board: 
+  z
+  p
+Board: 
+  q
+  a
+Board: 
+  q
+  a
+Board: 
+  a
+  q
+Board: 
+  a
+  q
+Board: 
+  q
+  b
+Board: 
+  q
+  b
+Board: 
+  b
+  q
+Board: 
+  b
+  q
+Board: 
+  q
+  c
+Board: 
+  q
+  c
+Board: 
+  c
+  q
+Board: 
+  c
+  q
+Board: 
+  q
+  d
+Board: 
+  q
+  d
+Board: 
+  d
+  q
+Board: 
+  d
+  q
+Board: 
+  q
+  e
+Board: 
+  q
+  e
+Board: 
+  e
+  q
+Board: 
+  e
+  q
+Board: 
+  q
+  f
+Board: 
+  q
+  f
+Board: 
+  f
+  q
+Board: 
+  f
+  q
+Board: 
+  q
+  g
+Board: 
+  q
+  g
+Board: 
+  g
+  q
+Board: 
+  g
+  q
+Board: 
+  q
+  h
+Board: 
+  q
+  h
+Board: 
+  h
+  q
+Board: 
+  h
+  q
+Board: 
+  q
+  i
+Board: 
+  q
+  i
+Board: 
+  i
+  q
+Board: 
+  i
+  q
+Board: 
+  q
+  j
+Board: 
+  q
+  j
+Board: 
+  j
+  q
+Board: 
+  j
+  q
+Board: 
+  q
+  k
+Board: 
+  q
+  k
+Board: 
+  k
+  q
+Board: 
+  k
+  q
+Board: 
+  q
+  l
+Board: 
+  q
+  l
+Board: 
+  l
+  q
+Board: 
+  l
+  q
+Board: 
+  q
+  m
+Board: 
+  q
+  m
+Board: 
+  m
+  q
+Board: 
+  m
+  q
+Board: 
+  q
+  n
+Board: 
+  q
+  n
+Board: 
+  n
+  q
+Board: 
+  n
+  q
+Board: 
+  q
+  o
+Board: 
+  q
+  o
+Board: 
+  o
+  q
+Board: 
+  o
+  q
+Board: 
+  q
+  p
+Board: 
+  q
+  p
+Board: 
+  p
+  q
+Board: 
+  p
+  q
+Board: 
+  q
+  q
+Board: 
+  q
+  q
+Board: 
+  q
+  q
+Board: 
+  q
+  q
+Board: 
+  q
+  r
+Board: 
+  q
+  r
+Board: 
+  r
+  q
+Board: 
+  r
+  q
+Board: 
+  q
+  s
+Board: 
+  q
+  s
+Board: 
+  s
+  q
+Board: 
+  s
+  q
+Board: 
+  q
+  t
+Board: 
+  q
+  t
+Board: 
+  t
+  q
+Board: 
+  t
+  q
+Board: 
+  q
+  u
+Board: 
+  q
+  u
+Board: 
+  u
+  q
+Board: 
+  u
+  q
+Board: 
+  q
+  v
+Board: 
+  q
+  v
+Board: 
+  v
+  q
+Board: 
+  v
+  q
+Board: 
+  q
+  w
+Board: 
+  q
+  w
+Board: 
+  w
+  q
+Board: 
+  w
+  q
+Board: 
+  q
+  x
+Board: 
+  q
+  x
+Board: 
+  x
+  q
+Board: 
+  x
+  q
+Board: 
+  q
+  y
+Board: 
+  q
+  y
+Board: 
+  y
+  q
+Board: 
+  y
+  q
+Board: 
+  q
+  z
+Board: 
+  q
+  z
+Board: 
+  z
+  q
+Board: 
+  z
+  q
+Board: 
+  r
+  a
+Board: 
+  r
+  a
+Board: 
+  a
+  r
+Board: 
+  a
+  r
+Board: 
+  r
+  b
+Board: 
+  r
+  b
+Board: 
+  b
+  r
+Board: 
+  b
+  r
+Board: 
+  r
+  c
+Board: 
+  r
+  c
+Board: 
+  c
+  r
+Board: 
+  c
+  r
+Board: 
+  r
+  d
+Board: 
+  r
+  d
+Board: 
+  d
+  r
+Board: 
+  d
+  r
+Board: 
+  r
+  e
+Board: 
+  r
+  e
+Board: 
+  e
+  r
+Board: 
+  e
+  r
+Board: 
+  r
+  f
+Board: 
+  r
+  f
+Board: 
+  f
+  r
+Board: 
+  f
+  r
+Board: 
+  r
+  g
+Board: 
+  r
+  g
+Board: 
+  g
+  r
+Board: 
+  g
+  r
+Board: 
+  r
+  h
+Board: 
+  r
+  h
+Board: 
+  h
+  r
+Board: 
+  h
+  r
+Board: 
+  r
+  i
+Board: 
+  r
+  i
+Board: 
+  i
+  r
+Board: 
+  i
+  r
+Board: 
+  r
+  j
+Board: 
+  r
+  j
+Board: 
+  j
+  r
+Board: 
+  j
+  r
+Board: 
+  r
+  k
+Board: 
+  r
+  k
+Board: 
+  k
+  r
+Board: 
+  k
+  r
+Board: 
+  r
+  l
+Board: 
+  r
+  l
+Board: 
+  l
+  r
+Board: 
+  l
+  r
+Board: 
+  r
+  m
+Board: 
+  r
+  m
+Board: 
+  m
+  r
+Board: 
+  m
+  r
+Board: 
+  r
+  n
+Board: 
+  r
+  n
+Board: 
+  n
+  r
+Board: 
+  n
+  r
+Board: 
+  r
+  o
+Board: 
+  r
+  o
+Board: 
+  o
+  r
+Board: 
+  o
+  r
+Board: 
+  r
+  p
+Board: 
+  r
+  p
+Board: 
+  p
+  r
+Board: 
+  p
+  r
+Board: 
+  r
+  q
+Board: 
+  r
+  q
+Board: 
+  q
+  r
+Board: 
+  q
+  r
+Board: 
+  r
+  r
+Board: 
+  r
+  r
+Board: 
+  r
+  r
+Board: 
+  r
+  r
+Board: 
+  r
+  s
+Board: 
+  r
+  s
+Board: 
+  s
+  r
+Board: 
+  s
+  r
+Board: 
+  r
+  t
+Board: 
+  r
+  t
+Board: 
+  t
+  r
+Board: 
+  t
+  r
+Board: 
+  r
+  u
+Board: 
+  r
+  u
+Board: 
+  u
+  r
+Board: 
+  u
+  r
+Board: 
+  r
+  v
+Board: 
+  r
+  v
+Board: 
+  v
+  r
+Board: 
+  v
+  r
+Board: 
+  r
+  w
+Board: 
+  r
+  w
+Board: 
+  w
+  r
+Board: 
+  w
+  r
+Board: 
+  r
+  x
+Board: 
+  r
+  x
+Board: 
+  x
+  r
+Board: 
+  x
+  r
+Board: 
+  r
+  y
+Board: 
+  r
+  y
+Board: 
+  y
+  r
+Board: 
+  y
+  r
+Board: 
+  r
+  z
+Board: 
+  r
+  z
+Board: 
+  z
+  r
+Board: 
+  z
+  r
+Board: 
+  s
+  a
+Board: 
+  s
+  a
+Board: 
+  a
+  s
+Board: 
+  a
+  s
+Board: 
+  s
+  b
+Board: 
+  s
+  b
+Board: 
+  b
+  s
+Board: 
+  b
+  s
+Board: 
+  s
+  c
+Board: 
+  s
+  c
+Board: 
+  c
+  s
+Board: 
+  c
+  s
+Board: 
+  s
+  d
+Board: 
+  s
+  d
+Board: 
+  d
+  s
+Board: 
+  d
+  s
+Board: 
+  s
+  e
+Board: 
+  s
+  e
+Board: 
+  e
+  s
+Board: 
+  e
+  s
+Board: 
+  s
+  f
+Board: 
+  s
+  f
+Board: 
+  f
+  s
+Board: 
+  f
+  s
+Board: 
+  s
+  g
+Board: 
+  s
+  g
+Board: 
+  g
+  s
+Board: 
+  g
+  s
+Board: 
+  s
+  h
+Board: 
+  s
+  h
+Board: 
+  h
+  s
+Board: 
+  h
+  s
+Board: 
+  s
+  i
+Board: 
+  s
+  i
+Board: 
+  i
+  s
+Board: 
+  i
+  s
+Board: 
+  s
+  j
+Board: 
+  s
+  j
+Board: 
+  j
+  s
+Board: 
+  j
+  s
+Board: 
+  s
+  k
+Board: 
+  s
+  k
+Board: 
+  k
+  s
+Board: 
+  k
+  s
+Board: 
+  s
+  l
+Board: 
+  s
+  l
+Board: 
+  l
+  s
+Board: 
+  l
+  s
+Board: 
+  s
+  m
+Board: 
+  s
+  m
+Board: 
+  m
+  s
+Board: 
+  m
+  s
+Board: 
+  s
+  n
+Board: 
+  s
+  n
+Board: 
+  n
+  s
+Board: 
+  n
+  s
+Board: 
+  s
+  o
+Board: 
+  s
+  o
+Board: 
+  o
+  s
+Board: 
+  o
+  s
+Board: 
+  s
+  p
+Board: 
+  s
+  p
+Board: 
+  p
+  s
+Board: 
+  p
+  s
+Board: 
+  s
+  q
+Board: 
+  s
+  q
+Board: 
+  q
+  s
+Board: 
+  q
+  s
+Board: 
+  s
+  r
+Board: 
+  s
+  r
+Board: 
+  r
+  s
+Board: 
+  r
+  s
+Board: 
+  s
+  s
+Board: 
+  s
+  s
+Board: 
+  s
+  s
+Board: 
+  s
+  s
+Board: 
+  s
+  t
+Board: 
+  s
+  t
+Board: 
+  t
+  s
+Board: 
+  t
+  s
+Board: 
+  s
+  u
+Board: 
+  s
+  u
+Board: 
+  u
+  s
+Board: 
+  u
+  s
+Board: 
+  s
+  v
+Board: 
+  s
+  v
+Board: 
+  v
+  s
+Board: 
+  v
+  s
+Board: 
+  s
+  w
+Board: 
+  s
+  w
+Board: 
+  w
+  s
+Board: 
+  w
+  s
+Board: 
+  s
+  x
+Board: 
+  s
+  x
+Board: 
+  x
+  s
+Board: 
+  x
+  s
+Board: 
+  s
+  y
+Board: 
+  s
+  y
+Board: 
+  y
+  s
+Board: 
+  y
+  s
+Board: 
+  s
+  z
+Board: 
+  s
+  z
+Board: 
+  z
+  s
+Board: 
+  z
+  s
+Board: 
+  t
+  a
+Board: 
+  t
+  a
+Board: 
+  a
+  t
+Board: 
+  a
+  t
+Board: 
+  t
+  b
+Board: 
+  t
+  b
+Board: 
+  b
+  t
+Board: 
+  b
+  t
+Board: 
+  t
+  c
+Board: 
+  t
+  c
+Board: 
+  c
+  t
+Board: 
+  c
+  t
+Board: 
+  t
+  d
+Board: 
+  t
+  d
+Board: 
+  d
+  t
+Board: 
+  d
+  t
+Board: 
+  t
+  e
+Board: 
+  t
+  e
+Board: 
+  e
+  t
+Board: 
+  e
+  t
+Board: 
+  t
+  f
+Board: 
+  t
+  f
+Board: 
+  f
+  t
+Board: 
+  f
+  t
+Board: 
+  t
+  g
+Board: 
+  t
+  g
+Board: 
+  g
+  t
+Board: 
+  g
+  t
+Board: 
+  t
+  h
+Board: 
+  t
+  h
+Board: 
+  h
+  t
+Board: 
+  h
+  t
+Board: 
+  t
+  i
+Board: 
+  t
+  i
+Board: 
+  i
+  t
+Board: 
+  i
+  t
+Board: 
+  t
+  j
+Board: 
+  t
+  j
+Board: 
+  j
+  t
+Board: 
+  j
+  t
+Board: 
+  t
+  k
+Board: 
+  t
+  k
+Board: 
+  k
+  t
+Board: 
+  k
+  t
+Board: 
+  t
+  l
+Board: 
+  t
+  l
+Board: 
+  l
+  t
+Board: 
+  l
+  t
+Board: 
+  t
+  m
+Board: 
+  t
+  m
+Board: 
+  m
+  t
+Board: 
+  m
+  t
+Board: 
+  t
+  n
+Board: 
+  t
+  n
+Board: 
+  n
+  t
+Board: 
+  n
+  t
+Board: 
+  t
+  o
+Board: 
+  t
+  o
+Board: 
+  o
+  t
+Board: 
+  o
+  t
+Board: 
+  t
+  p
+Board: 
+  t
+  p
+Board: 
+  p
+  t
+Board: 
+  p
+  t
+Board: 
+  t
+  q
+Board: 
+  t
+  q
+Board: 
+  q
+  t
+Board: 
+  q
+  t
+Board: 
+  t
+  r
+Board: 
+  t
+  r
+Board: 
+  r
+  t
+Board: 
+  r
+  t
+Board: 
+  t
+  s
+Board: 
+  t
+  s
+Board: 
+  s
+  t
+Board: 
+  s
+  t
+Board: 
+  t
+  t
+Board: 
+  t
+  t
+Board: 
+  t
+  t
+Board: 
+  t
+  t
+Board: 
+  t
+  u
+Board: 
+  t
+  u
+Board: 
+  u
+  t
+Board: 
+  u
+  t
+Board: 
+  t
+  v
+Board: 
+  t
+  v
+Board: 
+  v
+  t
+Board: 
+  v
+  t
+Board: 
+  t
+  w
+Board: 
+  t
+  w
+Board: 
+  w
+  t
+Board: 
+  w
+  t
+Board: 
+  t
+  x
+Board: 
+  t
+  x
+Board: 
+  x
+  t
+Board: 
+  x
+  t
+Board: 
+  t
+  y
+Board: 
+  t
+  y
+Board: 
+  y
+  t
+Board: 
+  y
+  t
+Board: 
+  t
+  z
+Board: 
+  t
+  z
+Board: 
+  z
+  t
+Board: 
+  z
+  t
+Board: 
+  u
+  a
+Board: 
+  u
+  a
+Board: 
+  a
+  u
+Board: 
+  a
+  u
+Board: 
+  u
+  b
+Board: 
+  u
+  b
+Board: 
+  b
+  u
+Board: 
+  b
+  u
+Board: 
+  u
+  c
+Board: 
+  u
+  c
+Board: 
+  c
+  u
+Board: 
+  c
+  u
+Board: 
+  u
+  d
+Board: 
+  u
+  d
+Board: 
+  d
+  u
+Board: 
+  d
+  u
+Board: 
+  u
+  e
+Board: 
+  u
+  e
+Board: 
+  e
+  u
+Board: 
+  e
+  u
+Board: 
+  u
+  f
+Board: 
+  u
+  f
+Board: 
+  f
+  u
+Board: 
+  f
+  u
+Board: 
+  u
+  g
+Board: 
+  u
+  g
+Board: 
+  g
+  u
+Board: 
+  g
+  u
+Board: 
+  u
+  h
+Board: 
+  u
+  h
+Board: 
+  h
+  u
+Board: 
+  h
+  u
+Board: 
+  u
+  i
+Board: 
+  u
+  i
+Board: 
+  i
+  u
+Board: 
+  i
+  u
+Board: 
+  u
+  j
+Board: 
+  u
+  j
+Board: 
+  j
+  u
+Board: 
+  j
+  u
+Board: 
+  u
+  k
+Board: 
+  u
+  k
+Board: 
+  k
+  u
+Board: 
+  k
+  u
+Board: 
+  u
+  l
+Board: 
+  u
+  l
+Board: 
+  l
+  u
+Board: 
+  l
+  u
+Board: 
+  u
+  m
+Board: 
+  u
+  m
+Board: 
+  m
+  u
+Board: 
+  m
+  u
+Board: 
+  u
+  n
+Board: 
+  u
+  n
+Board: 
+  n
+  u
+Board: 
+  n
+  u
+Board: 
+  u
+  o
+Board: 
+  u
+  o
+Board: 
+  o
+  u
+Board: 
+  o
+  u
+Board: 
+  u
+  p
+Board: 
+  u
+  p
+Board: 
+  p
+  u
+Board: 
+  p
+  u
+Board: 
+  u
+  q
+Board: 
+  u
+  q
+Board: 
+  q
+  u
+Board: 
+  q
+  u
+Board: 
+  u
+  r
+Board: 
+  u
+  r
+Board: 
+  r
+  u
+Board: 
+  r
+  u
+Board: 
+  u
+  s
+Board: 
+  u
+  s
+Board: 
+  s
+  u
+Board: 
+  s
+  u
+Board: 
+  u
+  t
+Board: 
+  u
+  t
+Board: 
+  t
+  u
+Board: 
+  t
+  u
+Board: 
+  u
+  u
+Board: 
+  u
+  u
+Board: 
+  u
+  u
+Board: 
+  u
+  u
+Board: 
+  u
+  v
+Board: 
+  u
+  v
+Board: 
+  v
+  u
+Board: 
+  v
+  u
+Board: 
+  u
+  w
+Board: 
+  u
+  w
+Board: 
+  w
+  u
+Board: 
+  w
+  u
+Board: 
+  u
+  x
+Board: 
+  u
+  x
+Board: 
+  x
+  u
+Board: 
+  x
+  u
+Board: 
+  u
+  y
+Board: 
+  u
+  y
+Board: 
+  y
+  u
+Board: 
+  y
+  u
+Board: 
+  u
+  z
+Board: 
+  u
+  z
+Board: 
+  z
+  u
+Board: 
+  z
+  u
+Board: 
+  v
+  a
+Board: 
+  v
+  a
+Board: 
+  a
+  v
+Board: 
+  a
+  v
+Board: 
+  v
+  b
+Board: 
+  v
+  b
+Board: 
+  b
+  v
+Board: 
+  b
+  v
+Board: 
+  v
+  c
+Board: 
+  v
+  c
+Board: 
+  c
+  v
+Board: 
+  c
+  v
+Board: 
+  v
+  d
+Board: 
+  v
+  d
+Board: 
+  d
+  v
+Board: 
+  d
+  v
+Board: 
+  v
+  e
+Board: 
+  v
+  e
+Board: 
+  e
+  v
+Board: 
+  e
+  v
+Board: 
+  v
+  f
+Board: 
+  v
+  f
+Board: 
+  f
+  v
+Board: 
+  f
+  v
+Board: 
+  v
+  g
+Board: 
+  v
+  g
+Board: 
+  g
+  v
+Board: 
+  g
+  v
+Board: 
+  v
+  h
+Board: 
+  v
+  h
+Board: 
+  h
+  v
+Board: 
+  h
+  v
+Board: 
+  v
+  i
+Board: 
+  v
+  i
+Board: 
+  i
+  v
+Board: 
+  i
+  v
+Board: 
+  v
+  j
+Board: 
+  v
+  j
+Board: 
+  j
+  v
+Board: 
+  j
+  v
+Board: 
+  v
+  k
+Board: 
+  v
+  k
+Board: 
+  k
+  v
+Board: 
+  k
+  v
+Board: 
+  v
+  l
+Board: 
+  v
+  l
+Board: 
+  l
+  v
+Board: 
+  l
+  v
+Board: 
+  v
+  m
+Board: 
+  v
+  m
+Board: 
+  m
+  v
+Board: 
+  m
+  v
+Board: 
+  v
+  n
+Board: 
+  v
+  n
+Board: 
+  n
+  v
+Board: 
+  n
+  v
+Board: 
+  v
+  o
+Board: 
+  v
+  o
+Board: 
+  o
+  v
+Board: 
+  o
+  v
+Board: 
+  v
+  p
+Board: 
+  v
+  p
+Board: 
+  p
+  v
+Board: 
+  p
+  v
+Board: 
+  v
+  q
+Board: 
+  v
+  q
+Board: 
+  q
+  v
+Board: 
+  q
+  v
+Board: 
+  v
+  r
+Board: 
+  v
+  r
+Board: 
+  r
+  v
+Board: 
+  r
+  v
+Board: 
+  v
+  s
+Board: 
+  v
+  s
+Board: 
+  s
+  v
+Board: 
+  s
+  v
+Board: 
+  v
+  t
+Board: 
+  v
+  t
+Board: 
+  t
+  v
+Board: 
+  t
+  v
+Board: 
+  v
+  u
+Board: 
+  v
+  u
+Board: 
+  u
+  v
+Board: 
+  u
+  v
+Board: 
+  v
+  v
+Board: 
+  v
+  v
+Board: 
+  v
+  v
+Board: 
+  v
+  v
+Board: 
+  v
+  w
+Board: 
+  v
+  w
+Board: 
+  w
+  v
+Board: 
+  w
+  v
+Board: 
+  v
+  x
+Board: 
+  v
+  x
+Board: 
+  x
+  v
+Board: 
+  x
+  v
+Board: 
+  v
+  y
+Board: 
+  v
+  y
+Board: 
+  y
+  v
+Board: 
+  y
+  v
+Board: 
+  v
+  z
+Board: 
+  v
+  z
+Board: 
+  z
+  v
+Board: 
+  z
+  v
+Board: 
+  w
+  a
+Board: 
+  w
+  a
+Board: 
+  a
+  w
+Board: 
+  a
+  w
+Board: 
+  w
+  b
+Board: 
+  w
+  b
+Board: 
+  b
+  w
+Board: 
+  b
+  w
+Board: 
+  w
+  c
+Board: 
+  w
+  c
+Board: 
+  c
+  w
+Board: 
+  c
+  w
+Board: 
+  w
+  d
+Board: 
+  w
+  d
+Board: 
+  d
+  w
+Board: 
+  d
+  w
+Board: 
+  w
+  e
+Board: 
+  w
+  e
+Board: 
+  e
+  w
+Board: 
+  e
+  w
+Board: 
+  w
+  f
+Board: 
+  w
+  f
+Board: 
+  f
+  w
+Board: 
+  f
+  w
+Board: 
+  w
+  g
+Board: 
+  w
+  g
+Board: 
+  g
+  w
+Board: 
+  g
+  w
+Board: 
+  w
+  h
+Board: 
+  w
+  h
+Board: 
+  h
+  w
+Board: 
+  h
+  w
+Board: 
+  w
+  i
+Board: 
+  w
+  i
+Board: 
+  i
+  w
+Board: 
+  i
+  w
+Board: 
+  w
+  j
+Board: 
+  w
+  j
+Board: 
+  j
+  w
+Board: 
+  j
+  w
+Board: 
+  w
+  k
+Board: 
+  w
+  k
+Board: 
+  k
+  w
+Board: 
+  k
+  w
+Board: 
+  w
+  l
+Board: 
+  w
+  l
+Board: 
+  l
+  w
+Board: 
+  l
+  w
+Board: 
+  w
+  m
+Board: 
+  w
+  m
+Board: 
+  m
+  w
+Board: 
+  m
+  w
+Board: 
+  w
+  n
+Board: 
+  w
+  n
+Board: 
+  n
+  w
+Board: 
+  n
+  w
+Board: 
+  w
+  o
+Board: 
+  w
+  o
+Board: 
+  o
+  w
+Board: 
+  o
+  w
+Board: 
+  w
+  p
+Board: 
+  w
+  p
+Board: 
+  p
+  w
+Board: 
+  p
+  w
+Board: 
+  w
+  q
+Board: 
+  w
+  q
+Board: 
+  q
+  w
+Board: 
+  q
+  w
+Board: 
+  w
+  r
+Board: 
+  w
+  r
+Board: 
+  r
+  w
+Board: 
+  r
+  w
+Board: 
+  w
+  s
+Board: 
+  w
+  s
+Board: 
+  s
+  w
+Board: 
+  s
+  w
+Board: 
+  w
+  t
+Board: 
+  w
+  t
+Board: 
+  t
+  w
+Board: 
+  t
+  w
+Board: 
+  w
+  u
+Board: 
+  w
+  u
+Board: 
+  u
+  w
+Board: 
+  u
+  w
+Board: 
+  w
+  v
+Board: 
+  w
+  v
+Board: 
+  v
+  w
+Board: 
+  v
+  w
+Board: 
+  w
+  w
+Board: 
+  w
+  w
+Board: 
+  w
+  w
+Board: 
+  w
+  w
+Board: 
+  w
+  x
+Board: 
+  w
+  x
+Board: 
+  x
+  w
+Board: 
+  x
+  w
+Board: 
+  w
+  y
+Board: 
+  w
+  y
+Board: 
+  y
+  w
+Board: 
+  y
+  w
+Board: 
+  w
+  z
+Board: 
+  w
+  z
+Board: 
+  z
+  w
+Board: 
+  z
+  w
+Board: 
+  x
+  a
+Board: 
+  x
+  a
+Board: 
+  a
+  x
+Board: 
+  a
+  x
+Board: 
+  x
+  b
+Board: 
+  x
+  b
+Board: 
+  b
+  x
+Board: 
+  b
+  x
+Board: 
+  x
+  c
+Board: 
+  x
+  c
+Board: 
+  c
+  x
+Board: 
+  c
+  x
+Board: 
+  x
+  d
+Board: 
+  x
+  d
+Board: 
+  d
+  x
+Board: 
+  d
+  x
+Board: 
+  x
+  e
+Board: 
+  x
+  e
+Board: 
+  e
+  x
+Board: 
+  e
+  x
+Board: 
+  x
+  f
+Board: 
+  x
+  f
+Board: 
+  f
+  x
+Board: 
+  f
+  x
+Board: 
+  x
+  g
+Board: 
+  x
+  g
+Board: 
+  g
+  x
+Board: 
+  g
+  x
+Board: 
+  x
+  h
+Board: 
+  x
+  h
+Board: 
+  h
+  x
+Board: 
+  h
+  x
+Board: 
+  x
+  i
+Board: 
+  x
+  i
+Board: 
+  i
+  x
+Board: 
+  i
+  x
+Board: 
+  x
+  j
+Board: 
+  x
+  j
+Board: 
+  j
+  x
+Board: 
+  j
+  x
+Board: 
+  x
+  k
+Board: 
+  x
+  k
+Board: 
+  k
+  x
+Board: 
+  k
+  x
+Board: 
+  x
+  l
+Board: 
+  x
+  l
+Board: 
+  l
+  x
+Board: 
+  l
+  x
+Board: 
+  x
+  m
+Board: 
+  x
+  m
+Board: 
+  m
+  x
+Board: 
+  m
+  x
+Board: 
+  x
+  n
+Board: 
+  x
+  n
+Board: 
+  n
+  x
+Board: 
+  n
+  x
+Board: 
+  x
+  o
+Board: 
+  x
+  o
+Board: 
+  o
+  x
+Board: 
+  o
+  x
+Board: 
+  x
+  p
+Board: 
+  x
+  p
+Board: 
+  p
+  x
+Board: 
+  p
+  x
+Board: 
+  x
+  q
+Board: 
+  x
+  q
+Board: 
+  q
+  x
+Board: 
+  q
+  x
+Board: 
+  x
+  r
+Board: 
+  x
+  r
+Board: 
+  r
+  x
+Board: 
+  r
+  x
+Board: 
+  x
+  s
+Board: 
+  x
+  s
+Board: 
+  s
+  x
+Board: 
+  s
+  x
+Board: 
+  x
+  t
+Board: 
+  x
+  t
+Board: 
+  t
+  x
+Board: 
+  t
+  x
+Board: 
+  x
+  u
+Board: 
+  x
+  u
+Board: 
+  u
+  x
+Board: 
+  u
+  x
+Board: 
+  x
+  v
+Board: 
+  x
+  v
+Board: 
+  v
+  x
+Board: 
+  v
+  x
+Board: 
+  x
+  w
+Board: 
+  x
+  w
+Board: 
+  w
+  x
+Board: 
+  w
+  x
+Board: 
+  x
+  x
+Board: 
+  x
+  x
+Board: 
+  x
+  x
+Board: 
+  x
+  x
+Board: 
+  x
+  y
+Board: 
+  x
+  y
+Board: 
+  y
+  x
+Board: 
+  y
+  x
+Board: 
+  x
+  z
+Board: 
+  x
+  z
+Board: 
+  z
+  x
+Board: 
+  z
+  x
+Board: 
+  y
+  a
+Board: 
+  y
+  a
+Board: 
+  a
+  y
+Board: 
+  a
+  y
+Board: 
+  y
+  b
+Board: 
+  y
+  b
+Board: 
+  b
+  y
+Board: 
+  b
+  y
+Board: 
+  y
+  c
+Board: 
+  y
+  c
+Board: 
+  c
+  y
+Board: 
+  c
+  y
+Board: 
+  y
+  d
+Board: 
+  y
+  d
+Board: 
+  d
+  y
+Board: 
+  d
+  y
+Board: 
+  y
+  e
+Board: 
+  y
+  e
+Board: 
+  e
+  y
+Board: 
+  e
+  y
+Board: 
+  y
+  f
+Board: 
+  y
+  f
+Board: 
+  f
+  y
+Board: 
+  f
+  y
+Board: 
+  y
+  g
+Board: 
+  y
+  g
+Board: 
+  g
+  y
+Board: 
+  g
+  y
+Board: 
+  y
+  h
+Board: 
+  y
+  h
+Board: 
+  h
+  y
+Board: 
+  h
+  y
+Board: 
+  y
+  i
+Board: 
+  y
+  i
+Board: 
+  i
+  y
+Board: 
+  i
+  y
+Board: 
+  y
+  j
+Board: 
+  y
+  j
+Board: 
+  j
+  y
+Board: 
+  j
+  y
+Board: 
+  y
+  k
+Board: 
+  y
+  k
+Board: 
+  k
+  y
+Board: 
+  k
+  y
+Board: 
+  y
+  l
+Board: 
+  y
+  l
+Board: 
+  l
+  y
+Board: 
+  l
+  y
+Board: 
+  y
+  m
+Board: 
+  y
+  m
+Board: 
+  m
+  y
+Board: 
+  m
+  y
+Board: 
+  y
+  n
+Board: 
+  y
+  n
+Board: 
+  n
+  y
+Board: 
+  n
+  y
+Board: 
+  y
+  o
+Board: 
+  y
+  o
+Board: 
+  o
+  y
+Board: 
+  o
+  y
+Board: 
+  y
+  p
+Board: 
+  y
+  p
+Board: 
+  p
+  y
+Board: 
+  p
+  y
+Board: 
+  y
+  q
+Board: 
+  y
+  q
+Board: 
+  q
+  y
+Board: 
+  q
+  y
+Board: 
+  y
+  r
+Board: 
+  y
+  r
+Board: 
+  r
+  y
+Board: 
+  r
+  y
+Board: 
+  y
+  s
+Board: 
+  y
+  s
+Board: 
+  s
+  y
+Board: 
+  s
+  y
+Board: 
+  y
+  t
+Board: 
+  y
+  t
+Board: 
+  t
+  y
+Board: 
+  t
+  y
+Board: 
+  y
+  u
+Board: 
+  y
+  u
+Board: 
+  u
+  y
+Board: 
+  u
+  y
+Board: 
+  y
+  v
+Board: 
+  y
+  v
+Board: 
+  v
+  y
+Board: 
+  v
+  y
+Board: 
+  y
+  w
+Board: 
+  y
+  w
+Board: 
+  w
+  y
+Board: 
+  w
+  y
+Board: 
+  y
+  x
+Board: 
+  y
+  x
+Board: 
+  x
+  y
+Board: 
+  x
+  y
+Board: 
+  y
+  y
+Board: 
+  y
+  y
+Board: 
+  y
+  y
+Board: 
+  y
+  y
+Board: 
+  y
+  z
+Board: 
+  y
+  z
+Board: 
+  z
+  y
+Board: 
+  z
+  y
+Board: 
+  z
+  a
+Board: 
+  z
+  a
+Board: 
+  a
+  z
+Board: 
+  a
+  z
+Board: 
+  z
+  b
+Board: 
+  z
+  b
+Board: 
+  b
+  z
+Board: 
+  b
+  z
+Board: 
+  z
+  c
+Board: 
+  z
+  c
+Board: 
+  c
+  z
+Board: 
+  c
+  z
+Board: 
+  z
+  d
+Board: 
+  z
+  d
+Board: 
+  d
+  z
+Board: 
+  d
+  z
+Board: 
+  z
+  e
+Board: 
+  z
+  e
+Board: 
+  e
+  z
+Board: 
+  e
+  z
+Board: 
+  z
+  f
+Board: 
+  z
+  f
+Board: 
+  f
+  z
+Board: 
+  f
+  z
+Board: 
+  z
+  g
+Board: 
+  z
+  g
+Board: 
+  g
+  z
+Board: 
+  g
+  z
+Board: 
+  z
+  h
+Board: 
+  z
+  h
+Board: 
+  h
+  z
+Board: 
+  h
+  z
+Board: 
+  z
+  i
+Board: 
+  z
+  i
+Board: 
+  i
+  z
+Board: 
+  i
+  z
+Board: 
+  z
+  j
+Board: 
+  z
+  j
+Board: 
+  j
+  z
+Board: 
+  j
+  z
+Board: 
+  z
+  k
+Board: 
+  z
+  k
+Board: 
+  k
+  z
+Board: 
+  k
+  z
+Board: 
+  z
+  l
+Board: 
+  z
+  l
+Board: 
+  l
+  z
+Board: 
+  l
+  z
+Board: 
+  z
+  m
+Board: 
+  z
+  m
+Board: 
+  m
+  z
+Board: 
+  m
+  z
+Board: 
+  z
+  n
+Board: 
+  z
+  n
+Board: 
+  n
+  z
+Board: 
+  n
+  z
+Board: 
+  z
+  o
+Board: 
+  z
+  o
+Board: 
+  o
+  z
+Board: 
+  o
+  z
+Board: 
+  z
+  p
+Board: 
+  z
+  p
+Board: 
+  p
+  z
+Board: 
+  p
+  z
+Board: 
+  z
+  q
+Board: 
+  z
+  q
+Board: 
+  q
+  z
+Board: 
+  q
+  z
+Board: 
+  z
+  r
+Board: 
+  z
+  r
+Board: 
+  r
+  z
+Board: 
+  r
+  z
+Board: 
+  z
+  s
+Board: 
+  z
+  s
+Board: 
+  s
+  z
+Board: 
+  s
+  z
+Board: 
+  z
+  t
+Board: 
+  z
+  t
+Board: 
+  t
+  z
+Board: 
+  t
+  z
+Board: 
+  z
+  u
+Board: 
+  z
+  u
+Board: 
+  u
+  z
+Board: 
+  u
+  z
+Board: 
+  z
+  v
+Board: 
+  z
+  v
+Board: 
+  v
+  z
+Board: 
+  v
+  z
+Board: 
+  z
+  w
+Board: 
+  z
+  w
+Board: 
+  w
+  z
+Board: 
+  w
+  z
+Board: 
+  z
+  x
+Board: 
+  z
+  x
+Board: 
+  x
+  z
+Board: 
+  x
+  z
+Board: 
+  z
+  y
+Board: 
+  z
+  y
+Board: 
+  y
+  z
+Board: 
+  y
+  z
+Board: 
+  z
+  z
+Board: 
+  z
+  z
+Board: 
+  z
+  z
+Board: 
+  z
+  z
